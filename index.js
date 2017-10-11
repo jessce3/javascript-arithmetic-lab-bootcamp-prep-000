@@ -7,5 +7,5 @@ function subtract(a, b) {
 }
 
 function multiply(a, b) {
-  multiply parseInt(a) * parseInt(b)
+  return parseInt(a) * parseInt(b)
 }
