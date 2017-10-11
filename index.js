@@ -1,3 +1,3 @@
 function add(a, b) {
-  returns parseInt(a) + parseInt(b)
+  return parseInt(a) + parseInt(b)
 }
